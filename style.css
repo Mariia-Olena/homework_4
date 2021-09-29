@@ -1,0 +1,53 @@
+.slogan {
+    color: cyan;
+}
+
+li {
+    color: darkviolet;
+}
+
+#trailer {
+    color: olive;
+}
+
+ol li {
+    color: tomato;
+}
+
+.item {
+    color: yellowgreen;
+}
+
+.subtitle {
+    color: yellow;
+}
+
+.desc.bold {
+    color: seagreen;
+    font: bold 110% serif;
+}
+
+ul li a.link {
+    color: royalblue;
+}
+
+.title.huge {
+    color: salmon;
+    font: bold italic 200% serif;
+}
+
+ul.list li {
+    color: blue;
+}
+
+ul li.item ul li {
+    color: aquamarine;
+}
+
+.link {
+    color: chartreuse;
+}
+
+p[title] {
+    color: chocolate;
+}
